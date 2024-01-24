@@ -13,7 +13,7 @@ namespace GitPractice
         }
         public void Login()
         {
-            var _loginUser = "王大明";
+            var _testMertge1 = "王大明";
         }
     }
 }
