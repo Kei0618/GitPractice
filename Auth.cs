@@ -11,5 +11,9 @@ namespace GitPractice
         {
             var _user = "王大明";
         }
+        public void Login()
+        {
+            var _loginUser = "王大明";
+        }
     }
 }
