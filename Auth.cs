@@ -14,6 +14,7 @@ namespace GitPractice
         public void Login()
         {
             var _testMertge1 = "王大明";
+            var _testMertge2 = "王大明";
         }
     }
 }
