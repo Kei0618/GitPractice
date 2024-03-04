@@ -7,7 +7,7 @@ builder.Services.AddEndpointsApiExplorer();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
+int a = 0;
 
 app.UseHttpsRedirection();
 
